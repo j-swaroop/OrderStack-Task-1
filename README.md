@@ -2,7 +2,7 @@
 
 ### You are given a nested object representing a company's organizational structure. Each employee has a unique ID and can have multiple direct subordinates (other employees). The structure is represented as follows:
 
-const company = {
+``` const company = {
   id: 1,
   name: "John Doe",
   role: "CEO",
